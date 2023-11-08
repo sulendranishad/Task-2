@@ -1,0 +1,52 @@
+ *{
+   padding:0;
+   margin:0;
+   color:white; 
+   border-width: 5px;
+   border-color: yellow;
+ }
+#navbar {
+    height:60px;
+    display: flex;
+    align-items: center;
+    background-color: black; 
+}
+a {
+    display: flex;
+    margin-right:50px;
+    padding-left: 30px;  
+}
+a:hover{
+    color:red;
+}
+#wel{
+    color: red;
+}
+#logo {
+    height: 60px;
+    width: 120px;
+}
+button {
+    size: 30px;
+    background-color:brown;
+}
+main{
+    background-image: url("img_.jpg");
+    background-size: auto;
+     text-align:center;
+    background-color: beige;
+ }
+footer{
+    height:100pxs;
+    background-color: rgb(254, 142, 13);
+    color:white;
+    text-align: center;
+    margin-top: 0px;
+}
+#logo1{
+    height: 50px;
+    width: 80px;
+    align-items: center;
+}
+
+
